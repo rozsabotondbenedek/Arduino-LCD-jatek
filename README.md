@@ -5,8 +5,10 @@ A „Futó ember LCD játék” egy egyszerű, de szórakoztató akadályugrató
 
 ### Képernyőképek
 
-<img width="1876" height="975" alt="image" src="https://github.com/user-attachments/assets/f9e16b92-5070-4896-9b97-18f88d1220b5" />
-<img width="1607" height="974" alt="image" src="https://github.com/user-attachments/assets/15e244ff-c622-4e66-b253-bae0698c8b6e" />
+<img width="1607" height="974" alt="image" src="https://github.com/user-attachments/assets/43dad6ea-f96b-4e31-a1c7-baae9bcddd46" />
+<img width="1876" height="975" alt="image" src="https://github.com/user-attachments/assets/3e6cc39a-f7a2-4840-a004-e6ef87304771" />
+
+
 
 
 ---
